@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            float nota1, nota2, nota3, nota4, media = 0;
+            float nota1, nota2, nota3, nota4, media;
 
 
             Console.WriteLine("Digite nota 1: ");

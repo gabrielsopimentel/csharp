@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            float bruto, noturno, extras, descontos, liquido = 0;
+            float bruto, noturno, extras, descontos, liquido;
             
             Console.WriteLine("Salário bruto: ");
             bruto = Convert.ToSingle(Console.ReadLine());
