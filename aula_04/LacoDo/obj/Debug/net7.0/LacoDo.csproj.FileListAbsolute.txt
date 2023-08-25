@@ -1,0 +1,14 @@
+C:\Users\gabri\csharp\aula_04\LacoDo\bin\Debug\net7.0\LacoDo.exe
+C:\Users\gabri\csharp\aula_04\LacoDo\bin\Debug\net7.0\LacoDo.deps.json
+C:\Users\gabri\csharp\aula_04\LacoDo\bin\Debug\net7.0\LacoDo.runtimeconfig.json
+C:\Users\gabri\csharp\aula_04\LacoDo\bin\Debug\net7.0\LacoDo.dll
+C:\Users\gabri\csharp\aula_04\LacoDo\bin\Debug\net7.0\LacoDo.pdb
+C:\Users\gabri\csharp\aula_04\LacoDo\obj\Debug\net7.0\LacoDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\csharp\aula_04\LacoDo\obj\Debug\net7.0\LacoDo.AssemblyInfoInputs.cache
+C:\Users\gabri\csharp\aula_04\LacoDo\obj\Debug\net7.0\LacoDo.AssemblyInfo.cs
+C:\Users\gabri\csharp\aula_04\LacoDo\obj\Debug\net7.0\LacoDo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\csharp\aula_04\LacoDo\obj\Debug\net7.0\LacoDo.dll
+C:\Users\gabri\csharp\aula_04\LacoDo\obj\Debug\net7.0\refint\LacoDo.dll
+C:\Users\gabri\csharp\aula_04\LacoDo\obj\Debug\net7.0\LacoDo.pdb
+C:\Users\gabri\csharp\aula_04\LacoDo\obj\Debug\net7.0\LacoDo.genruntimeconfig.cache
+C:\Users\gabri\csharp\aula_04\LacoDo\obj\Debug\net7.0\ref\LacoDo.dll
