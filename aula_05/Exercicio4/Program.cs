@@ -6,7 +6,7 @@
         {
 
             float[,] notas = new float[10, 4];
-            float[] medias = new float[2];
+            float[] medias = new float[10];
             float nota;
 
             for (int i = 0; i < notas.GetLength(0); i++)

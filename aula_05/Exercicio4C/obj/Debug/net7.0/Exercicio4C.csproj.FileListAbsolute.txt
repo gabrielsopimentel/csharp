@@ -1,0 +1,14 @@
+C:\Users\gabri\csharp\aula_05\Exercicio4C\bin\Debug\net7.0\Exercicio4C.exe
+C:\Users\gabri\csharp\aula_05\Exercicio4C\bin\Debug\net7.0\Exercicio4C.deps.json
+C:\Users\gabri\csharp\aula_05\Exercicio4C\bin\Debug\net7.0\Exercicio4C.runtimeconfig.json
+C:\Users\gabri\csharp\aula_05\Exercicio4C\bin\Debug\net7.0\Exercicio4C.dll
+C:\Users\gabri\csharp\aula_05\Exercicio4C\bin\Debug\net7.0\Exercicio4C.pdb
+C:\Users\gabri\csharp\aula_05\Exercicio4C\obj\Debug\net7.0\Exercicio4C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\csharp\aula_05\Exercicio4C\obj\Debug\net7.0\Exercicio4C.AssemblyInfoInputs.cache
+C:\Users\gabri\csharp\aula_05\Exercicio4C\obj\Debug\net7.0\Exercicio4C.AssemblyInfo.cs
+C:\Users\gabri\csharp\aula_05\Exercicio4C\obj\Debug\net7.0\Exercicio4C.csproj.CoreCompileInputs.cache
+C:\Users\gabri\csharp\aula_05\Exercicio4C\obj\Debug\net7.0\Exercicio4C.dll
+C:\Users\gabri\csharp\aula_05\Exercicio4C\obj\Debug\net7.0\refint\Exercicio4C.dll
+C:\Users\gabri\csharp\aula_05\Exercicio4C\obj\Debug\net7.0\Exercicio4C.pdb
+C:\Users\gabri\csharp\aula_05\Exercicio4C\obj\Debug\net7.0\Exercicio4C.genruntimeconfig.cache
+C:\Users\gabri\csharp\aula_05\Exercicio4C\obj\Debug\net7.0\ref\Exercicio4C.dll

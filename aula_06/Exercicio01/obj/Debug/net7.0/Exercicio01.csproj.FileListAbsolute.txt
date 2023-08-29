@@ -1,0 +1,14 @@
+C:\Users\gabri\csharp\aula_06\Exercicio01\bin\Debug\net7.0\Exercicio01.exe
+C:\Users\gabri\csharp\aula_06\Exercicio01\bin\Debug\net7.0\Exercicio01.deps.json
+C:\Users\gabri\csharp\aula_06\Exercicio01\bin\Debug\net7.0\Exercicio01.runtimeconfig.json
+C:\Users\gabri\csharp\aula_06\Exercicio01\bin\Debug\net7.0\Exercicio01.dll
+C:\Users\gabri\csharp\aula_06\Exercicio01\bin\Debug\net7.0\Exercicio01.pdb
+C:\Users\gabri\csharp\aula_06\Exercicio01\obj\Debug\net7.0\Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\csharp\aula_06\Exercicio01\obj\Debug\net7.0\Exercicio01.AssemblyInfoInputs.cache
+C:\Users\gabri\csharp\aula_06\Exercicio01\obj\Debug\net7.0\Exercicio01.AssemblyInfo.cs
+C:\Users\gabri\csharp\aula_06\Exercicio01\obj\Debug\net7.0\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\gabri\csharp\aula_06\Exercicio01\obj\Debug\net7.0\Exercicio01.dll
+C:\Users\gabri\csharp\aula_06\Exercicio01\obj\Debug\net7.0\refint\Exercicio01.dll
+C:\Users\gabri\csharp\aula_06\Exercicio01\obj\Debug\net7.0\Exercicio01.pdb
+C:\Users\gabri\csharp\aula_06\Exercicio01\obj\Debug\net7.0\Exercicio01.genruntimeconfig.cache
+C:\Users\gabri\csharp\aula_06\Exercicio01\obj\Debug\net7.0\ref\Exercicio01.dll
