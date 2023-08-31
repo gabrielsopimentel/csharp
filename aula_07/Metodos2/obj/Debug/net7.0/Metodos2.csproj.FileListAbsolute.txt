@@ -1,0 +1,14 @@
+C:\Users\gabri\csharp\aula_07\Metodos2\bin\Debug\net7.0\Metodos2.exe
+C:\Users\gabri\csharp\aula_07\Metodos2\bin\Debug\net7.0\Metodos2.deps.json
+C:\Users\gabri\csharp\aula_07\Metodos2\bin\Debug\net7.0\Metodos2.runtimeconfig.json
+C:\Users\gabri\csharp\aula_07\Metodos2\bin\Debug\net7.0\Metodos2.dll
+C:\Users\gabri\csharp\aula_07\Metodos2\bin\Debug\net7.0\Metodos2.pdb
+C:\Users\gabri\csharp\aula_07\Metodos2\obj\Debug\net7.0\Metodos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\csharp\aula_07\Metodos2\obj\Debug\net7.0\Metodos2.AssemblyInfoInputs.cache
+C:\Users\gabri\csharp\aula_07\Metodos2\obj\Debug\net7.0\Metodos2.AssemblyInfo.cs
+C:\Users\gabri\csharp\aula_07\Metodos2\obj\Debug\net7.0\Metodos2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\csharp\aula_07\Metodos2\obj\Debug\net7.0\Metodos2.dll
+C:\Users\gabri\csharp\aula_07\Metodos2\obj\Debug\net7.0\refint\Metodos2.dll
+C:\Users\gabri\csharp\aula_07\Metodos2\obj\Debug\net7.0\Metodos2.pdb
+C:\Users\gabri\csharp\aula_07\Metodos2\obj\Debug\net7.0\Metodos2.genruntimeconfig.cache
+C:\Users\gabri\csharp\aula_07\Metodos2\obj\Debug\net7.0\ref\Metodos2.dll
