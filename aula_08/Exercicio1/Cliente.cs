@@ -8,29 +8,29 @@ namespace Exercicio1
 {
     public class Cliente
     {
-        private string cpf;
+        private string rg;
         private string nome;
         private string telefone;
         private string email;
         private string nascimento;
 
-        public Cliente(string cpf, string nome, string telefone, string email, string nascimento)
+        public Cliente(string rg, string nome, string telefone, string email, string nascimento)
         {
-            this.cpf = cpf;
+            this.rg = rg;
             this.nome = nome;
             this.telefone = telefone;
             this.email = email;
             this.nascimento = nascimento;
         }
 
-        public string GetCpf()
+        public string GetRg()
         {
-            return cpf;
+            return rg;
         }
 
-        public void SetCpf(string cpf) 
+        public void SetRg(string rg) 
         {
-            this.cpf = cpf;
+            this.rg = rg;
         }
 
         public string GetNome()
@@ -73,13 +73,13 @@ namespace Exercicio1
             this.nascimento = nascimento;
         }
 
-        public void Visualizar()
+        public virtual void Visualizar()
         {
             
             Console.WriteLine("**************");
             Console.WriteLine("Dados da conta");
             Console.WriteLine("**************");
-            Console.WriteLine($"Número do cpf: {this.cpf}");
+            Console.WriteLine($"Número do rg: {this.rg}");
             Console.WriteLine($"Nome: {this.nome}");
             Console.WriteLine($"Telefone: {this.telefone}");
             Console.WriteLine($"Email: {this.email}");

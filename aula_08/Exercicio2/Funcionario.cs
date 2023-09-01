@@ -73,7 +73,7 @@ namespace Exercicio2
             this.nascimento = nascimento;
         }
 
-        public void Visualizar()
+        public virtual void Visualizar()
         {
 
             Console.WriteLine("**************");
