@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TratamentoExceptions_02/1.0.0": {
+        "runtime": {
+          "TratamentoExceptions_02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TratamentoExceptions_02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

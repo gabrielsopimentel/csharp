@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions\bin\Debug\net7.0\TratamentoExceptions_01.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions\bin\Debug\net7.0\TratamentoExceptions_01.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions\bin\Debug\net7.0\TratamentoExceptions_01.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions\bin\Debug\net7.0\TratamentoExceptions_01.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions\bin\Debug\net7.0\TratamentoExceptions_01.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions\obj\Debug\net7.0\TratamentoExceptions_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions\obj\Debug\net7.0\TratamentoExceptions_01.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions\obj\Debug\net7.0\TratamentoExceptions_01.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions\obj\Debug\net7.0\TratamentoExceptions_01.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions\obj\Debug\net7.0\TratamentoExceptions_01.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions\obj\Debug\net7.0\refint\TratamentoExceptions_01.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions\obj\Debug\net7.0\TratamentoExceptions_01.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions\obj\Debug\net7.0\TratamentoExceptions_01.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions\obj\Debug\net7.0\ref\TratamentoExceptions_01.dll

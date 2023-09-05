@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions_03\bin\Debug\net7.0\TratamentoExceptions_03.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions_03\bin\Debug\net7.0\TratamentoExceptions_03.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions_03\bin\Debug\net7.0\TratamentoExceptions_03.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions_03\bin\Debug\net7.0\TratamentoExceptions_03.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions_03\bin\Debug\net7.0\TratamentoExceptions_03.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions_03\obj\Debug\net7.0\TratamentoExceptions_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions_03\obj\Debug\net7.0\TratamentoExceptions_03.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions_03\obj\Debug\net7.0\TratamentoExceptions_03.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions_03\obj\Debug\net7.0\TratamentoExceptions_03.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions_03\obj\Debug\net7.0\TratamentoExceptions_03.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions_03\obj\Debug\net7.0\refint\TratamentoExceptions_03.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions_03\obj\Debug\net7.0\TratamentoExceptions_03.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions_03\obj\Debug\net7.0\TratamentoExceptions_03.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\praticas_bloco_01\csharp\TratamentoExceptions_03\obj\Debug\net7.0\ref\TratamentoExceptions_03.dll
