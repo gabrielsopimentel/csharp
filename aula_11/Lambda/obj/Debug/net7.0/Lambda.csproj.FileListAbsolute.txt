@@ -1,0 +1,14 @@
+C:\Users\gabri\csharp\aula_11\Lambda\bin\Debug\net7.0\Lambda.exe
+C:\Users\gabri\csharp\aula_11\Lambda\bin\Debug\net7.0\Lambda.deps.json
+C:\Users\gabri\csharp\aula_11\Lambda\bin\Debug\net7.0\Lambda.runtimeconfig.json
+C:\Users\gabri\csharp\aula_11\Lambda\bin\Debug\net7.0\Lambda.dll
+C:\Users\gabri\csharp\aula_11\Lambda\bin\Debug\net7.0\Lambda.pdb
+C:\Users\gabri\csharp\aula_11\Lambda\obj\Debug\net7.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\csharp\aula_11\Lambda\obj\Debug\net7.0\Lambda.AssemblyInfoInputs.cache
+C:\Users\gabri\csharp\aula_11\Lambda\obj\Debug\net7.0\Lambda.AssemblyInfo.cs
+C:\Users\gabri\csharp\aula_11\Lambda\obj\Debug\net7.0\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\gabri\csharp\aula_11\Lambda\obj\Debug\net7.0\Lambda.dll
+C:\Users\gabri\csharp\aula_11\Lambda\obj\Debug\net7.0\refint\Lambda.dll
+C:\Users\gabri\csharp\aula_11\Lambda\obj\Debug\net7.0\Lambda.pdb
+C:\Users\gabri\csharp\aula_11\Lambda\obj\Debug\net7.0\Lambda.genruntimeconfig.cache
+C:\Users\gabri\csharp\aula_11\Lambda\obj\Debug\net7.0\ref\Lambda.dll
