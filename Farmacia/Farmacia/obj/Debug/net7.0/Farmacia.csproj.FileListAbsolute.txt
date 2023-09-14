@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\recap_review\farmacia\Farmacia\bin\Debug\net7.0\Farmacia.exe
+C:\Users\gabri\source\repos\recap_review\farmacia\Farmacia\bin\Debug\net7.0\Farmacia.deps.json
+C:\Users\gabri\source\repos\recap_review\farmacia\Farmacia\bin\Debug\net7.0\Farmacia.runtimeconfig.json
+C:\Users\gabri\source\repos\recap_review\farmacia\Farmacia\bin\Debug\net7.0\Farmacia.dll
+C:\Users\gabri\source\repos\recap_review\farmacia\Farmacia\bin\Debug\net7.0\Farmacia.pdb
+C:\Users\gabri\source\repos\recap_review\farmacia\Farmacia\obj\Debug\net7.0\Farmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\recap_review\farmacia\Farmacia\obj\Debug\net7.0\Farmacia.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\recap_review\farmacia\Farmacia\obj\Debug\net7.0\Farmacia.AssemblyInfo.cs
+C:\Users\gabri\source\repos\recap_review\farmacia\Farmacia\obj\Debug\net7.0\Farmacia.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\recap_review\farmacia\Farmacia\obj\Debug\net7.0\Farmacia.dll
+C:\Users\gabri\source\repos\recap_review\farmacia\Farmacia\obj\Debug\net7.0\refint\Farmacia.dll
+C:\Users\gabri\source\repos\recap_review\farmacia\Farmacia\obj\Debug\net7.0\Farmacia.pdb
+C:\Users\gabri\source\repos\recap_review\farmacia\Farmacia\obj\Debug\net7.0\Farmacia.genruntimeconfig.cache
+C:\Users\gabri\source\repos\recap_review\farmacia\Farmacia\obj\Debug\net7.0\ref\Farmacia.dll
