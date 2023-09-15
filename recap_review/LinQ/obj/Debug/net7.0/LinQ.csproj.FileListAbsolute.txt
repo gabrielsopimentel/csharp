@@ -1,0 +1,14 @@
+C:\Users\gabri\csharp\recap_review\LinQ\bin\Debug\net7.0\LinQ.exe
+C:\Users\gabri\csharp\recap_review\LinQ\bin\Debug\net7.0\LinQ.deps.json
+C:\Users\gabri\csharp\recap_review\LinQ\bin\Debug\net7.0\LinQ.runtimeconfig.json
+C:\Users\gabri\csharp\recap_review\LinQ\bin\Debug\net7.0\LinQ.dll
+C:\Users\gabri\csharp\recap_review\LinQ\bin\Debug\net7.0\LinQ.pdb
+C:\Users\gabri\csharp\recap_review\LinQ\obj\Debug\net7.0\LinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\csharp\recap_review\LinQ\obj\Debug\net7.0\LinQ.AssemblyInfoInputs.cache
+C:\Users\gabri\csharp\recap_review\LinQ\obj\Debug\net7.0\LinQ.AssemblyInfo.cs
+C:\Users\gabri\csharp\recap_review\LinQ\obj\Debug\net7.0\LinQ.csproj.CoreCompileInputs.cache
+C:\Users\gabri\csharp\recap_review\LinQ\obj\Debug\net7.0\LinQ.dll
+C:\Users\gabri\csharp\recap_review\LinQ\obj\Debug\net7.0\refint\LinQ.dll
+C:\Users\gabri\csharp\recap_review\LinQ\obj\Debug\net7.0\LinQ.pdb
+C:\Users\gabri\csharp\recap_review\LinQ\obj\Debug\net7.0\LinQ.genruntimeconfig.cache
+C:\Users\gabri\csharp\recap_review\LinQ\obj\Debug\net7.0\ref\LinQ.dll

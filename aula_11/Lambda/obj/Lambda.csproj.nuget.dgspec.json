@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\gabri\\csharp\\aula_11\\Lambda\\Lambda.csproj": {}
+    "C:\\Users\\gabri\\csharp\\aula_11\\Lambda\\Lambda.csproj": {}
   },
   "projects": {
-    "c:\\Users\\gabri\\csharp\\aula_11\\Lambda\\Lambda.csproj": {
+    "C:\\Users\\gabri\\csharp\\aula_11\\Lambda\\Lambda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gabri\\csharp\\aula_11\\Lambda\\Lambda.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\csharp\\aula_11\\Lambda\\Lambda.csproj",
         "projectName": "Lambda",
-        "projectPath": "c:\\Users\\gabri\\csharp\\aula_11\\Lambda\\Lambda.csproj",
+        "projectPath": "C:\\Users\\gabri\\csharp\\aula_11\\Lambda\\Lambda.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gabri\\csharp\\aula_11\\Lambda\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\csharp\\aula_11\\Lambda\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

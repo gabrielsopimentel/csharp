@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g4OKipDc/7q79w+GO7CJsEwtayIjIPDYrQ7euuGSCiXZIqI0DUOdI6ySeIgPcNlrXMM7B0AbRuZURMlUJehmEA==",
+  "dgSpecHash": "bFcdgtvZF+0VIa1sHYH1K8jl3CWUoTyzImsY1EnD9D9tYgsPijQZ+/Dj5fOLD0aKYty0osKcGtzg0a7miZzvAA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\gabri\\csharp\\aula_11\\Linq\\Linq.csproj",
+  "projectFilePath": "C:\\Users\\gabri\\csharp\\aula_11\\Linq\\Linq.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

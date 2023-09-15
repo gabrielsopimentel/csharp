@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\csharp\\aula_11\\Linq\\Linq.csproj": {}
+    "C:\\Users\\gabri\\csharp\\recap_review\\LinQ\\LinQ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\csharp\\aula_11\\Linq\\Linq.csproj": {
+    "C:\\Users\\gabri\\csharp\\recap_review\\LinQ\\LinQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\csharp\\aula_11\\Linq\\Linq.csproj",
-        "projectName": "Linq",
-        "projectPath": "C:\\Users\\gabri\\csharp\\aula_11\\Linq\\Linq.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\csharp\\recap_review\\LinQ\\LinQ.csproj",
+        "projectName": "LinQ",
+        "projectPath": "C:\\Users\\gabri\\csharp\\recap_review\\LinQ\\LinQ.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\csharp\\aula_11\\Linq\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\csharp\\recap_review\\LinQ\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
