@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\source\\repos\\recap_review\\farmacia\\Farmacia\\Farmacia.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\csharp\\Farmacia\\Farmacia\\Farmacia.csproj",
       "projectName": "Farmacia",
-      "projectPath": "C:\\Users\\gabri\\source\\repos\\recap_review\\farmacia\\Farmacia\\Farmacia.csproj",
+      "projectPath": "C:\\Users\\gabri\\csharp\\Farmacia\\Farmacia\\Farmacia.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\source\\repos\\recap_review\\farmacia\\Farmacia\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\csharp\\Farmacia\\Farmacia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
