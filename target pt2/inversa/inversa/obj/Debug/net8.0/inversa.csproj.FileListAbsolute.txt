@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\inversa\inversa\bin\Debug\net8.0\inversa.exe
+C:\Users\gabri\source\repos\inversa\inversa\bin\Debug\net8.0\inversa.deps.json
+C:\Users\gabri\source\repos\inversa\inversa\bin\Debug\net8.0\inversa.runtimeconfig.json
+C:\Users\gabri\source\repos\inversa\inversa\bin\Debug\net8.0\inversa.dll
+C:\Users\gabri\source\repos\inversa\inversa\bin\Debug\net8.0\inversa.pdb
+C:\Users\gabri\source\repos\inversa\inversa\obj\Debug\net8.0\inversa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\inversa\inversa\obj\Debug\net8.0\inversa.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\inversa\inversa\obj\Debug\net8.0\inversa.AssemblyInfo.cs
+C:\Users\gabri\source\repos\inversa\inversa\obj\Debug\net8.0\inversa.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\inversa\inversa\obj\Debug\net8.0\inversa.dll
+C:\Users\gabri\source\repos\inversa\inversa\obj\Debug\net8.0\refint\inversa.dll
+C:\Users\gabri\source\repos\inversa\inversa\obj\Debug\net8.0\inversa.pdb
+C:\Users\gabri\source\repos\inversa\inversa\obj\Debug\net8.0\inversa.genruntimeconfig.cache
+C:\Users\gabri\source\repos\inversa\inversa\obj\Debug\net8.0\ref\inversa.dll

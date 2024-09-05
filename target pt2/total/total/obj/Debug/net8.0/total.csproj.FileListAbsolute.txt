@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\total\total\bin\Debug\net8.0\total.exe
+C:\Users\gabri\source\repos\total\total\bin\Debug\net8.0\total.deps.json
+C:\Users\gabri\source\repos\total\total\bin\Debug\net8.0\total.runtimeconfig.json
+C:\Users\gabri\source\repos\total\total\bin\Debug\net8.0\total.dll
+C:\Users\gabri\source\repos\total\total\bin\Debug\net8.0\total.pdb
+C:\Users\gabri\source\repos\total\total\obj\Debug\net8.0\total.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\total\total\obj\Debug\net8.0\total.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\total\total\obj\Debug\net8.0\total.AssemblyInfo.cs
+C:\Users\gabri\source\repos\total\total\obj\Debug\net8.0\total.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\total\total\obj\Debug\net8.0\total.dll
+C:\Users\gabri\source\repos\total\total\obj\Debug\net8.0\refint\total.dll
+C:\Users\gabri\source\repos\total\total\obj\Debug\net8.0\total.pdb
+C:\Users\gabri\source\repos\total\total\obj\Debug\net8.0\total.genruntimeconfig.cache
+C:\Users\gabri\source\repos\total\total\obj\Debug\net8.0\ref\total.dll

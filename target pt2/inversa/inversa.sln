@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inversa", "inversa\inversa.csproj", "{99EFE46E-3B19-4B90-80E0-CAE04126001E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99EFE46E-3B19-4B90-80E0-CAE04126001E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99EFE46E-3B19-4B90-80E0-CAE04126001E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99EFE46E-3B19-4B90-80E0-CAE04126001E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99EFE46E-3B19-4B90-80E0-CAE04126001E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0961BE0-429B-4222-A914-91A26BAAFF84}
+	EndGlobalSection
+EndGlobal

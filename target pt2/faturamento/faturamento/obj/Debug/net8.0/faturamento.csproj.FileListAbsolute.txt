@@ -1,0 +1,17 @@
+C:\Users\gabri\source\repos\faturamento\faturamento\bin\Debug\net8.0\faturamento.exe
+C:\Users\gabri\source\repos\faturamento\faturamento\bin\Debug\net8.0\faturamento.deps.json
+C:\Users\gabri\source\repos\faturamento\faturamento\bin\Debug\net8.0\faturamento.runtimeconfig.json
+C:\Users\gabri\source\repos\faturamento\faturamento\bin\Debug\net8.0\faturamento.dll
+C:\Users\gabri\source\repos\faturamento\faturamento\bin\Debug\net8.0\faturamento.pdb
+C:\Users\gabri\source\repos\faturamento\faturamento\obj\Debug\net8.0\faturamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\faturamento\faturamento\obj\Debug\net8.0\faturamento.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\faturamento\faturamento\obj\Debug\net8.0\faturamento.AssemblyInfo.cs
+C:\Users\gabri\source\repos\faturamento\faturamento\obj\Debug\net8.0\faturamento.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\faturamento\faturamento\obj\Debug\net8.0\faturamento.dll
+C:\Users\gabri\source\repos\faturamento\faturamento\obj\Debug\net8.0\refint\faturamento.dll
+C:\Users\gabri\source\repos\faturamento\faturamento\obj\Debug\net8.0\faturamento.pdb
+C:\Users\gabri\source\repos\faturamento\faturamento\obj\Debug\net8.0\faturamento.genruntimeconfig.cache
+C:\Users\gabri\source\repos\faturamento\faturamento\obj\Debug\net8.0\ref\faturamento.dll
+C:\Users\gabri\source\repos\faturamento\faturamento\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\gabri\source\repos\faturamento\faturamento\obj\Debug\net8.0\faturamento.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\faturamento\faturamento\obj\Debug\net8.0\faturame.DAE1AD10.Up2Date

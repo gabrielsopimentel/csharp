@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\inversa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99EFE46E-3B19-4B90-80E0-CAE04126001E}|inversa\\inversa.csproj|c:\\users\\gabri\\source\\repos\\inversa\\inversa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EFE46E-3B19-4B90-80E0-CAE04126001E}|inversa\\inversa.csproj|solutionrelative:inversa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\inversa\\inversa\\Program.cs",
+              "RelativeDocumentMoniker": "inversa\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\inversa\\inversa\\Program.cs",
+              "RelativeToolTip": "inversa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:29:41.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
