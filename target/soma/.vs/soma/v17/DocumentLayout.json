@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\soma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{501820A1-D4FF-4954-B152-FE067B1AFC81}|soma\\soma.csproj|c:\\users\\gabri\\source\\repos\\soma\\soma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501820A1-D4FF-4954-B152-FE067B1AFC81}|soma\\soma.csproj|solutionrelative:soma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\soma\\soma\\Program.cs",
+              "RelativeDocumentMoniker": "soma\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\soma\\soma\\Program.cs",
+              "RelativeToolTip": "soma\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T04:07:45.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

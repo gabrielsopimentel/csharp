@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\fibo\fibo\bin\Debug\net8.0\fibo.exe
+C:\Users\gabri\source\repos\fibo\fibo\bin\Debug\net8.0\fibo.deps.json
+C:\Users\gabri\source\repos\fibo\fibo\bin\Debug\net8.0\fibo.runtimeconfig.json
+C:\Users\gabri\source\repos\fibo\fibo\bin\Debug\net8.0\fibo.dll
+C:\Users\gabri\source\repos\fibo\fibo\bin\Debug\net8.0\fibo.pdb
+C:\Users\gabri\source\repos\fibo\fibo\obj\Debug\net8.0\fibo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\fibo\fibo\obj\Debug\net8.0\fibo.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\fibo\fibo\obj\Debug\net8.0\fibo.AssemblyInfo.cs
+C:\Users\gabri\source\repos\fibo\fibo\obj\Debug\net8.0\fibo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\fibo\fibo\obj\Debug\net8.0\fibo.dll
+C:\Users\gabri\source\repos\fibo\fibo\obj\Debug\net8.0\refint\fibo.dll
+C:\Users\gabri\source\repos\fibo\fibo\obj\Debug\net8.0\fibo.pdb
+C:\Users\gabri\source\repos\fibo\fibo\obj\Debug\net8.0\fibo.genruntimeconfig.cache
+C:\Users\gabri\source\repos\fibo\fibo\obj\Debug\net8.0\ref\fibo.dll

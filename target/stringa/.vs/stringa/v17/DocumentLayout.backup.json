@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\stringa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4184602F-E78E-4C1C-B0E7-D6B13D998B4D}|stringa\\stringa.csproj|c:\\users\\gabri\\source\\repos\\stringa\\stringa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4184602F-E78E-4C1C-B0E7-D6B13D998B4D}|stringa\\stringa.csproj|solutionrelative:stringa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\stringa\\stringa\\Program.cs",
+              "RelativeDocumentMoniker": "stringa\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\stringa\\stringa\\Program.cs",
+              "RelativeToolTip": "stringa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T04:05:35.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

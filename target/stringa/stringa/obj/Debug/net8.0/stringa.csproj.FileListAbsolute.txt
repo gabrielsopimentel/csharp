@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\stringa\stringa\bin\Debug\net8.0\stringa.exe
+C:\Users\gabri\source\repos\stringa\stringa\bin\Debug\net8.0\stringa.deps.json
+C:\Users\gabri\source\repos\stringa\stringa\bin\Debug\net8.0\stringa.runtimeconfig.json
+C:\Users\gabri\source\repos\stringa\stringa\bin\Debug\net8.0\stringa.dll
+C:\Users\gabri\source\repos\stringa\stringa\bin\Debug\net8.0\stringa.pdb
+C:\Users\gabri\source\repos\stringa\stringa\obj\Debug\net8.0\stringa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\stringa\stringa\obj\Debug\net8.0\stringa.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\stringa\stringa\obj\Debug\net8.0\stringa.AssemblyInfo.cs
+C:\Users\gabri\source\repos\stringa\stringa\obj\Debug\net8.0\stringa.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\stringa\stringa\obj\Debug\net8.0\stringa.dll
+C:\Users\gabri\source\repos\stringa\stringa\obj\Debug\net8.0\refint\stringa.dll
+C:\Users\gabri\source\repos\stringa\stringa\obj\Debug\net8.0\stringa.pdb
+C:\Users\gabri\source\repos\stringa\stringa\obj\Debug\net8.0\stringa.genruntimeconfig.cache
+C:\Users\gabri\source\repos\stringa\stringa\obj\Debug\net8.0\ref\stringa.dll

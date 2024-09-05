@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\soma\soma\obj\Debug\net8.0\soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\soma\soma\obj\Debug\net8.0\soma.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\soma\soma\obj\Debug\net8.0\soma.AssemblyInfo.cs
+C:\Users\gabri\source\repos\soma\soma\obj\Debug\net8.0\soma.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\soma\soma\bin\Debug\net8.0\soma.exe
+C:\Users\gabri\source\repos\soma\soma\bin\Debug\net8.0\soma.deps.json
+C:\Users\gabri\source\repos\soma\soma\bin\Debug\net8.0\soma.runtimeconfig.json
+C:\Users\gabri\source\repos\soma\soma\bin\Debug\net8.0\soma.dll
+C:\Users\gabri\source\repos\soma\soma\bin\Debug\net8.0\soma.pdb
+C:\Users\gabri\source\repos\soma\soma\obj\Debug\net8.0\soma.dll
+C:\Users\gabri\source\repos\soma\soma\obj\Debug\net8.0\refint\soma.dll
+C:\Users\gabri\source\repos\soma\soma\obj\Debug\net8.0\soma.pdb
+C:\Users\gabri\source\repos\soma\soma\obj\Debug\net8.0\soma.genruntimeconfig.cache
+C:\Users\gabri\source\repos\soma\soma\obj\Debug\net8.0\ref\soma.dll
